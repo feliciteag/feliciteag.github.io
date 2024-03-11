@@ -31,3 +31,11 @@ img {
   display: block;
   margin: 0 auto;
 }
+
+h2 {
+  font-size: 10px;
+  text-align: center;
+margin: 0;
+  padding: 20px 0;
+  color: #606c38;
+}
